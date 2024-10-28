@@ -1,4 +1,4 @@
-# [Your Name]'s Cybersecurity Portfolio
+# [Sivanesan]'s Cybersecurity Portfolio
 
 Welcome to my GitHub portfolio! I'm [Your Name], a Computer Science Engineering student with a focus on cybersecurity. Here, you’ll find a showcase of my projects, skills, and achievements in the field of cybersecurity, including areas like network security, penetration testing, and secure coding practices.
 
