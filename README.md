@@ -1,66 +1,38 @@
-# [Sivanesan]'s Cybersecurity Portfolio
+# 👋 Hi, I'm Sivanesan G
 
-Welcome to my GitHub portfolio! I'm [Your Name], a Computer Science Engineering student with a focus on cybersecurity. Here, you’ll find a showcase of my projects, skills, and achievements in the field of cybersecurity, including areas like network security, penetration testing, and secure coding practices.
+Welcome to my GitHub portfolio! I’m a passionate and dedicated Computer Science Engineering student with a strong interest in game development, cybersecurity, software engineering, cloud computing, full-stack development, and animation. I'm currently learning and building projects in these domains.
 
----
+## 🚀 Skills and Interests
+- **Programming Languages**: Python, C, C#, C++, Java, JavaScript, PHP, Bash
+- **Game Development**: Unity, Unreal Engine, Game Design Principles
+- **Cybersecurity**: Networking, Ethical Hacking, Pentesting Tools (Nmap, Metasploit, Wireshark)
+- **Cloud Computing**: AWS, Azure, Google Cloud, DevOps Basics
+- **Web Development**: HTML, CSS, JavaScript, React, Node.js, Django
+- **Database Management**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- **Animation**: Blender, Maya, 3D Modeling, Rigging
+- **Tools**: Git, GitHub, CI/CD, Docker
 
-## 🛡️ About Me
+## 🎯 Current Learning Pathways
+1. **Game Development**: Working on small games to master Unity and Unreal Engine.
+2. **Cybersecurity**: Studying penetration testing techniques and practicing in Capture the Flag (CTF) challenges.
+3. **Cloud Computing**: Exploring cloud services and building projects on AWS and Azure.
+4. **Full-Stack Development**: Building complete web applications with front-end and back-end integration.
+5. **Database Administration**: Learning database design, optimization, and security.
 
-I'm passionate about cybersecurity and constantly learning new ways to protect digital assets. My interests include:
-- Network Security
-- Ethical Hacking
-- Threat Intelligence
-- Cryptography
-- Secure Software Development
-
-Currently, I’m expanding my knowledge in **[specific cybersecurity courses, certifications, or personal projects]** to deepen my technical expertise.
-
----
-
-## 🧰 Skills
-
-- **Programming Languages**: Python, Bash, JavaScript
-- **Tools & Technologies**: Wireshark, Metasploit, Burp Suite, Nmap, OWASP ZAP
-- **Security Practices**: Penetration Testing, Vulnerability Assessment, Malware Analysis, Network Monitoring, Encryption
-
----
-
-## 📂 Projects
-
-Here are a few of my featured projects. Check out my repositories for more detailed descriptions.
-
-### [Project 1: Network Security Analysis Tool](https://github.com/yourusername/network-security-analysis)
-A Python-based tool that analyzes network traffic to detect anomalies and potential threats in real-time.
-
-### [Project 2: Web Application Vulnerability Scanner](https://github.com/yourusername/web-vuln-scanner)
-A tool for scanning web applications to identify security vulnerabilities like SQL injection and Cross-Site Scripting (XSS).
-
-### [Project 3: Malware Detection using Machine Learning](https://github.com/yourusername/malware-detection)
-Using machine learning algorithms to identify malware from file and network traffic features.
-
----
-
-## 📜 Certifications
-
-- [Certification 1: CompTIA Security+](https://www.yourcertificationlink.com) - (Date)
-- [Certification 2: CEH (Certified Ethical Hacker)](https://www.yourcertificationlink.com) - (Date)
-- [Certification 3: Any other relevant certifications](https://www.yourcertificationlink.com) - (Date)
-
----
+## 🌱 Learning Goals
+I am focused on becoming a skilled:
+- **Game Developer**
+- **Cybersecurity Specialist**
+- **Cloud Computing Specialist**
+- **Full Stack Developer**
+- **Database Administrator**
+- **Animation Specialist**
+- **Penetration Tester**
 
 ## 📫 Connect with Me
+- **Email**: [sivaatr0@gmail.com](mailto:sivaatr0@gmail.com)
+- **LinkedIn**: [linkedin.com/in/sivanesan-g](https://www.linkedin.com/in/sivanesan-g)
 
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-
----
-
-## ⚙️ GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api? sivanesan-g=sivanesan-g&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sivanesan-g=sivanesan-g&layout=compact&theme=radical)
+Thanks for visiting my profile! I’m always open to collaboration and opportunities to learn and grow. Feel free to reach out or check back for updates as I add more projects!
 
 ---
-
-Thank you for visiting my portfolio! Feel free to reach out if you’d like to connect or collaborate on any cybersecurity projects.
